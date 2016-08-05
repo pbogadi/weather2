@@ -21,6 +21,7 @@ public class MainActivity extends AppCompatActivity {
     TextView textView1, textView2, textView3, textView4;
     String url = "http://api.openweathermap.org";
 
+    // made changes in downloaded branch: Master
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
