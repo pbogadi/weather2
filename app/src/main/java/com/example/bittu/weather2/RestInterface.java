@@ -14,5 +14,6 @@ public interface RestInterface {
         @GET("/data/2.5/forecast/daily?q=london&mode=json&units=metric&cnt=7&appid=e2328fe6db5449f7db67cf8bfdaab212")
 //        void getWheatherReport(Callback<Model> cb);
         Call<Model> getWheatherReport();
+        //second change in master branch
 
 }
