@@ -19,6 +19,17 @@ public interface RestInterface {
         //fourth change in master branch
 
 
+
+        //1st changes in branch-1
+        //2nd change in branch-1
+        //3rd change in branch-1
+
+
+        //1st change in branch-2
+        //
+
+
         //fifth change in master branch
         //sixth change in master branch
+        //seventh change in master branch
 }
